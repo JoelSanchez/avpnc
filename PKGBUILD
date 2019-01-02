@@ -16,7 +16,7 @@ options=(!strip emptydirs)
 source=(https://s3-us-west-2.amazonaws.com/aviatrix-download/AviatrixVPNClient/dev/AVPNC_debian.deb
         logrotate
         service)
-sha512sums=('21fe71a81db93586caafb90a5736cfd222b109ea7170cda54e31aafdb7007f14108fd88a7de537c4feb85e4430ade4005109fb5982e2ff7e757beba44c309222'
+sha512sums=('c1cd0fd76392c98fb0b016276254d513c6f1b0b6415761bd0da0340853512a06677c131d59f26832b5dfd9c77943f2ce41d7fe6c98cc9b8e0595bfba136840a3'
             '4a64702faa88eda3150d8ad144a2359e55914f8041545ef0335990de5f546ae9b9eac00d56ebc8b4937077ad6d3694f66ce9c16014cc2f89b3a2dc599172569a'
             '1f47bbe3f6e37c5ce61fd94097fea19b46288e4fafd3aeccf30c37f710df8b7102c027d473be4dc7041451a507ce8ec74e10ab09c1ec4bf92c0bc2df1880a7e1')
 
